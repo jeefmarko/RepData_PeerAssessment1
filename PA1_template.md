@@ -97,7 +97,7 @@ plot(d$interval,d$mean,main='Average Daily Pattern', xlab = 'interval',
 
 ![](PA1_template_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
 
-Maximum number of steps
+Maximum number of steps below:
 
 
 ```r
